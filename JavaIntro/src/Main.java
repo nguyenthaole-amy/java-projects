@@ -19,5 +19,14 @@ public class Main {
         int a = new Integer(1);
         //print
         System.out.println("Hello world!");
+        //loop
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
+        //if
+
+        //I/O
+
+        //Operators (String comparison and logic)
     }
 }
