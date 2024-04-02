@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
     /**
      * How Java works:
@@ -16,7 +19,7 @@ public class Main {
 
     public static void main(String[] args) {
         //variable declaration
-        int a = new Integer(1);
+        List<Integer> a = new ArrayList<>(2);
         //print
         System.out.println("Hello world!");
         //loop
